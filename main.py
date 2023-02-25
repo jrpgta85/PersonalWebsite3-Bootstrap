@@ -1,3 +1,5 @@
+# This section is for testing the mobile version of the website through a local route
+
 # from flask import Flask, render_template
 #
 # app = Flask(__name__)
